@@ -2,12 +2,12 @@
 
 ### Site settings
 
-title: Builder Guide
+title: Builder Guide G3
 description: How to build Docker images from ACCETTO.
 
 ### Build settings
 
-url: https://accetto.github.io/docs-builder-guide
+url: https://accetto.github.io/builder-guide-g3
 
 theme: just-the-docs
 
